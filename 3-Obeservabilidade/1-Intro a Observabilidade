@@ -1,0 +1,39 @@
+# Introdução a Observabilidade
+
+
+Observabilidade – A capacidade de compreender e medir o estado de um sistema com base nos dados gerados pelo sistema
+
+A observabilidade permite gerar resultados acionáveis a partir de cenários inesperados em ambientes dinâmicos
+A observabilidade ajudará:
+
+1. Dê uma visão melhor do funcionamento interno de um sistema/aplicativo
+2. Acelere a solução de problemas
+3. Detecte problemas difíceis de detectar
+4. Monitore o desempenho de um aplicativo
+5. Melhore a colaboração entre equipes
+
+O principal objetivo da observabilidade é melhor
+enentender o interior do seu sistema
+
+![Sistema](images/sistema.png)
+
+
+À medida que as arquiteturas de sistema continuam a obter mais
+e mais complexos, novos desafios surgem à medida que
+rastrear problemas se torna muito mais
+desafiante.
+
+Há uma necessidade maior de observabilidade à medida que
+avançar para sistemas distribuídos e
+aplicativo baseado em microsserviços.
+
+
+Quando se trata de solucionar problemas, precisamos de mais informações
+do que apenas o que está errado. Precisamos saber por que nosso aplicativo entrou em um estado específico, o que componente é responsável e como podemos evitá-lo no futuro.
+
+- Por que as taxas de erro estão aumentando
+- Por que há alta latência
+- Por que os serviços estão expirando
+
+A observabilidade oferece flexibilidade para entender eventos imprevisíveis
+

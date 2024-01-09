@@ -13,7 +13,7 @@ Como vimos antes o Prometheus é composto de uma série de ferramentas que se co
 
 ## Componentes
 
-![prom_architecture](images/prom_architecture.png "Prometheus Architecture")
+![prom_architecture](images/architecture.png "Prometheus Architecture")
 
 - O **Prometheus server** é quem coleta e armazena a informação. É o `core`, ou o centro de todas as ferramentas.
 - **bibliotecas para clientes**, ou seja, bibliotecas em várias linguagem de programação como Python ou Go que vamos falar mais para frente para incorporar métricas na sua aplicação
