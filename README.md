@@ -7,13 +7,13 @@ O pessoal do SoundCloud o criou e, em 2016, ele se juntou à Cloud Native Comput
 Os principais recursos do Prometheus incluem:
 
 PromQL – linguagem de consulta flexível
-Coleta dados por meio de um modelo pull
-Modelo multidimensional
-Os Targets podem ser definidos estaticamente ou aprendidos dinamicamente por meio de descoberta de serviço
-Painel e visualização integrados
-Geração de alertas/notificações via AlertManager
+- Coleta dados por meio de um modelo pull
+- Modelo multidimensional
+- Os Targets podem ser definidos estaticamente ou aprendidos dinamicamente por meio de descoberta de serviço
+- Painel e visualização integrados
+- Geração de alertas/notificações via AlertManager
 
-Este curso lhe dará uma base sólida para instalar, configurar, operar e gerenciar um servidor Prometheus. Além disso, ajudará você a se preparar para o exame Prometheus Certified Associate (PCA). 
+Este repositório lhe dará uma base sólida para instalar, configurar, operar e gerenciar um servidor Prometheus. Além disso, ajudará você a se preparar para o exame Prometheus Certified Associate (PCA). 
 
 ## Detalhes do Exame PCA 
 
