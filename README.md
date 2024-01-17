@@ -15,7 +15,15 @@ Geração de alertas/notificações via AlertManager
 
 Este curso lhe dará uma base sólida para instalar, configurar, operar e gerenciar um servidor Prometheus. Além disso, ajudará você a se preparar para o exame Prometheus Certified Associate (PCA). 
 
+## Detalhes do Exame PCA 
+
+![Detalhes](/detail/image.png)
+
+## Domínios e Competências
+Agora que você tem uma compreensão completa do exame, deixe-os olhar para o programa de exame PCA com domínios e competências.
+
 Serão abordados os seguintes tópicos:
+<pre>
 - Noções básicas de observabilidade
 - Arquitetura Prometheus
 - Instalação/configuração do Prometheus
@@ -28,3 +36,5 @@ Serão abordados os seguintes tópicos:
 - Gateway de envio
 - Alertas (Gerenciador de alertas e notificações)
 - Monitorando Kubernetes
+</pre>
+![dominio](/detail/image-1.png)
