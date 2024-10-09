@@ -10,6 +10,7 @@ Como vimos antes o Prometheus é composto de uma série de ferramentas que se co
 - A coleta de dados é feita por HTTP, ou seja, é o Prometheus server que vai até os servidores e aplicações coletar os dados via o protocolo http
 - O envio de dados para o Prometheus é feito através do **pushgateway**, ou seja quando a tua aplicação necessita enviar dados para o Prometheus, como por exemplo uma função serverless que execute em um determinado horário pode querer enviar os dados ao contrário de esperar o Prometheus coletar os dados
 - Novas aplicações e serviços podem ser monitoradas através de **service discovery** ou arquivos de configuração
+- O Prometheus não recomenda ou não suporta o uso de NFS (Network File System) como sistema de arquivos para armazenamento de dados.
 
 ## Componentes
 
